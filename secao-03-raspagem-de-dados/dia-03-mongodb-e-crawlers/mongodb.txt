@@ -1,0 +1,13 @@
+db.collection.find()
+db.collection.countDocuments()
+
+db.collection.find({ '_id': 7 })
+db.collection.find({ '_id': 7 }, { 'name': true })
+db.collection.find({ '_id': 7 }, { 'name': true, 'address': true })
+db.collection.find({ '_id': 7 }, { 'address': false, 'host': false })
+
+db.collection.find({ 'address.country_code': 'BR' })
+db.collection.find({ 'address.country_code': 'BR' }).count()
+
+db.collection.find().sort({ '_id': 1 })
+db.collection.find().sort({ '_id': -1 })

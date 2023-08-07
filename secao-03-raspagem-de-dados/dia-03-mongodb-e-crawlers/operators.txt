@@ -1,0 +1,13 @@
+db.collection.find({ price: {eq: 100} }, { price: true })
+db.collection.find({ price: {ne: 100} }, { price: true })
+
+db.collection.find({ price: {gt: 100} }, { price: true })
+db.collection.find({ price: {gte: 100} }, { price: true })
+
+db.collection.find({ price: {lt: 100} }, { price: true })
+db.collection.find({ price: {lte: 100} }, { price: true })
+
+
+db.collection.find({ amenities: ["Garagem", "jacuzzi", "Armários", "piscina"] })
+db.collection.find({ amenities: { $all: ["Stove", "Refrigerator"] } })
+db.collection.find({ amenities: { $in: ["Stove", "Refrigerator"] } })
