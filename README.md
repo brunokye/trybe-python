@@ -6,19 +6,19 @@ Este repositório contém todas as atividades da eletiva de Python desenvolvidas
 
 ## 1º Período :heavy_check_mark:
 
-##### Seção 1: [Debug com Python]()
+##### Seção 1: [Debug com Python](https://github.com/brunokye/trybe-python/tree/main/secao-01-debug-com-python)
 - [x] 1.1: Estratégias de debug com Python
 - [x] 1.2: Automatizando o bug hunting com Pytest
 - [x] 1.3: Avançando nos testes em Python
 - [x] 1.4: [Projeto - ProFiller](https://github.com/brunokye/trybe-30-pro-filler)
 
-##### Seção 2: [Programação Orientada a Objetos]()
+##### Seção 2: [Programação Orientada a Objetos](https://github.com/brunokye/trybe-python/tree/main/secao-02-programacao-orientada-a-objetos)
 - [x] 2.1: POO em Python
 - [x] 2.2: Pilares da POO
 - [x] 2.3: Classes abstratas, interfaces e protocolos
 - [x] 2.4: [Projeto - Inventory Report](https://github.com/brunokye/trybe-31-invetory-report)
 
-##### Seção 3: [Raspagem de Dados]()
+##### Seção 3: [Raspagem de Dados](https://github.com/brunokye/trybe-python/tree/main/secao-03-raspagem-de-dados)
 - [x] 3.1: Introdução a Raspagem de dados
 - [x] 3.2: Outras ferramentas de raspagem de dados
 - [x] 3.3: MongoDB e Crawlers
