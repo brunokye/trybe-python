@@ -1,0 +1,27 @@
+db.collection.insertOne(
+  { '_id': 100, 'name': 'Casa', 'description': 'Uma bela casa!' }
+)
+
+db.collection.insertMany(
+  [
+    { '_id': 101, 'name': 'Casa na Sol', 'description': 'Apesar de distante, um lugar com clima sempre quente!' },
+    { '_id': 102, 'name': 'Casa em Marte ', 'description': 'Ambiente calmo e inóspito onde é possível encontrar alguns robôs!' },
+    { '_id': 103, 'name': 'Casa em Plutão', 'description': 'Para quem deseja ficar distante de tudo e de todes!' }
+  ]
+)
+
+
+db.collection.updateOne(
+  { _id: 12 },
+  { $set: { "review_scores.review_scores_rating": adiciona/altera o campo } }
+)
+
+db.collection.updateMany(
+  { "host.host_name": "José Edmílson" },
+  { $unset: { "host.host_identity_verified": remove o campo } }
+)
+
+
+db.places.deleteOne({ _id: 11 })
+
+db.places.deleteMany({ "host.host_identity_verified": { $eq: false } })
