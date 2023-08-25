@@ -26,18 +26,24 @@ Este repositório contém todas as atividades da eletiva de Python desenvolvidas
 
 ## 2º Período :hourglass:
 
-##### Seção 1: [Flask]()
-- [ ] 1.1: Ambiente e Primeira API
-- [ ] 1.2: Server Side Rendering
-- [ ] 1.3: Aprofudando em Templates com Flask
-- [ ] 1.4: API e testes em Flask
-- [ ] 1.5: [Projeto - Translate]()
+##### Seção 4: [Flask](https://github.com/brunokye/trybe-python/tree/main/secao-04-flask)
+- [x] 4.1: Ambiente e Primeira API
+- [x] 4.2: Server Side Rendering
+- [x] 4.3: Aprofudando em Templates com Flask
+- [x] 4.4: API e testes em Flask
+- [x] 4.5: [Projeto - Translate](https://github.com/brunokye/trybe-33-translate)
 
-##### Seção 2: [Django I]()
-- [ ] 2.1: Ambiente de banco de dados e ORM
-- [ ] 2.2: Templates do Django
-- [ ] 2.3: Formulários e Relacionamento de Modelos
-- [ ] 2.4: Django Rest Framework
-- [ ] 2.5: [Projeto - Trybook]()
+##### Seção 5: [Django I](https://github.com/brunokye/trybe-python/tree/main/secao-05-django-I)
+- [x] 5.1: Ambiente de banco de dados e ORM
+- [x] 5.2: Templates do Django
+- [x] 5.3: Formulários e Relacionamento de Modelos
+- [x] 5.4: Django Rest Framework
+- [x] 5.5: [Projeto - Spotnews](https://github.com/brunokye/trybe-34-spotnews)
+
+##### Seção 6: [Django II]()
+- [ ] 6.1: Autenticação
+- [ ] 6.2: Testando aplicações Django
+- [ ] 6.3: Deploy da aplicação com Django
+- [ ] 6.4: [Projeto - ?]()
 
 # [...]
