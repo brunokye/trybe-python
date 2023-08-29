@@ -40,10 +40,10 @@ Este repositório contém todas as atividades da eletiva de Python desenvolvidas
 - [x] 5.4: Django Rest Framework
 - [x] 5.5: [Projeto - Spotnews](https://github.com/brunokye/trybe-34-spotnews)
 
-##### Seção 6: [Django II]()
-- [ ] 6.1: Autenticação
-- [ ] 6.2: Testando aplicações Django
-- [ ] 6.3: Deploy da aplicação com Django
+##### Seção 6: [Django II](https://github.com/brunokye/trybe-python/tree/main/secao-06-django-II)
+- [x] 6.1: Autenticação
+- [x] 6.2: Testando aplicações Django
+- [x] 6.3: Deploy da aplicação com Django
 - [ ] 6.4: [Projeto - ?]()
 
 # [...]
