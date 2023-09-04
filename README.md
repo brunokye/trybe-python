@@ -24,7 +24,7 @@ Este repositório contém todas as atividades da eletiva de Python desenvolvidas
 - [x] 3.3: MongoDB e Crawlers
 - [x] 3.4: [Projeto - Tech News](https://github.com/brunokye/trybe-32-tech-news)
 
-## 2º Período :hourglass:
+## 2º Período :heavy_check_mark:
 
 ##### Seção 4: [Flask](https://github.com/brunokye/trybe-python/tree/main/secao-04-flask)
 - [x] 4.1: Ambiente e Primeira API
@@ -44,6 +44,6 @@ Este repositório contém todas as atividades da eletiva de Python desenvolvidas
 - [x] 6.1: Autenticação
 - [x] 6.2: Testando aplicações Django
 - [x] 6.3: Deploy da aplicação com Django
-- [ ] 6.4: [Projeto - ?]()
+- [X] 6.4: [Projeto - Super Portfolio](https://github.com/brunokye/trybe-35-super-portfolio)
 
 # [...]
